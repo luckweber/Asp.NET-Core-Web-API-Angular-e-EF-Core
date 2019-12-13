@@ -1,0 +1,11 @@
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.exe
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.deps.json
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.json
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.runtimeconfig.dev.json
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.dll
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\bin\Debug\netcoreapp3.1\GameTOP.pdb
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.csprojAssemblyReference.cache
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfoInputs.cache
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.AssemblyInfo.cs
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.dll
+C:\Asp.NET-Core-Web-API-Angular-e-EF-Core\GameTOP\obj\Debug\netcoreapp3.1\GameTOP.pdb

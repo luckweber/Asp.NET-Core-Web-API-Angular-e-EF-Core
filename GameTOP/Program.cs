@@ -1,12 +1,11 @@
-﻿using System;
-
-namespace GameTOP
+﻿namespace GameTOP
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Player player  = new Player();
+            player.shooter();
         }
     }
 }
